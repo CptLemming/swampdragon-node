@@ -1,0 +1,14 @@
+{
+  "name": "swampdragon-node",
+  "version": "1.0.0",
+  "description": "SwampDragon node client",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "sockjs-client": "^1.0.0-beta.12"
+  }
+}
